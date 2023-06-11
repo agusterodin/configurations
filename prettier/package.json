@@ -1,0 +1,10 @@
+{
+  "name": "@agusterodin/prettier-config-chuck",
+  "version": "1.0.0",
+  "main": "index.json",
+  "author": "Jeff Rosen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agusterodin/configurations"
+  }
+}

@@ -13,3 +13,13 @@ jobs:
           access: public
           token: ${{ secrets.NPM_TOKEN }}
           package: eslint
+      - uses: JS-DevTools/npm-publish@v2
+        with:
+          access: public
+          token: ${{ secrets.NPM_TOKEN }}
+          package: prettier
+      - uses: JS-DevTools/npm-publish@v2
+        with:
+          access: public
+          token: ${{ secrets.NPM_TOKEN }}
+          package: typescript
