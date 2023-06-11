@@ -1,5 +1,5 @@
 {
-  "name": "@agusterodin/typescript-config-chuck",
+  "name": "@agusterodin/typescript-config",
   "version": "1.0.0",
   "main": "tsconfig.json",
   "author": "Jeff Rosen",

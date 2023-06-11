@@ -1,5 +1,5 @@
 {
-  "name": "@agusterodin/eslint-config-chuck",
+  "name": "@agusterodin/eslint-config",
   "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
