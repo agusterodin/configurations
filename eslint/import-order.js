@@ -13,7 +13,7 @@ module.exports = {
             position: 'before'
           },
           {
-            pattern: 'classnames',
+            pattern: '{clsx,classnames}',
             group: 'external',
             position: 'before'
           },
