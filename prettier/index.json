@@ -6,5 +6,8 @@
   "semi": false,
   "singleQuote": true,
   "trailingComma": "none",
-  "useEditorConfig": false
+  "tailwindFunctions": ["clsx"],
+  "tailwindAttributes": ["className", "classNames"],
+  "tailwindConfig": "./tailwind.config.ts",
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
